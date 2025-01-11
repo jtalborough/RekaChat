@@ -1,3 +1,4 @@
 reka-api
 python-dotenv==1.0.0
 rich==13.7.0
+openai==1.6.1
